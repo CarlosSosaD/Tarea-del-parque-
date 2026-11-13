@@ -1,1 +1,1 @@
-# Tarea-del-parque-
+Las dificultades que encontre fueron tanto a la hora de hacer el codigo y a la hora de hacer el diagrama ya que hay algunas cosas de logica que tengo que mejorar, realmente no encontre ninguna fortaleza, realizar este ejercicio si se me complico bastante
